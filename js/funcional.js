@@ -1,0 +1,1 @@
+//crear las propiedades del objeto
